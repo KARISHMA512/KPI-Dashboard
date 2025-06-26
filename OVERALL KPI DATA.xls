@@ -1,0 +1,25 @@
+Company,Govt Clients,Commercial Clients,Research/Educational Clients,Total Client Segments
+Rocket Lab,12,30,8,3
+SpaceX,18,60,14,3
+Astra,4,10,3,3
+Blue Origin,6,12,5,3
+,,,,
+Company,Avg Cost per kg to Orbit (USD),,,
+Rocket Lab,8000,,,
+SpaceX,3000,,,
+Astra,10000,,,
+Blue Origin,7000,,,
+,,,,
+,,,,
+Company,Launches Attempted,Launches Successful,Success Rate (%),
+Rocket Lab,60,57,95,
+SpaceX,250,245,98,
+Astra,20,12,60,
+Blue Origin,15,13,86.67,
+,,,,
+,,,,
+Tenure Bin,Avg_Performance_Rating,Count,,
+0 - 2 yrs,2.545454545,11,,
+2 - 5 yrs,3.133333333,15,,
+5 - 10 yrs,2.826086957,23,,
+10 - 15 yrs,2.904761905,21,,
